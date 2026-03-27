@@ -1,5 +1,11 @@
-# 💫 About Me:
-🛠️ I’m currently studying: Systems Analysis and Development.<br>🌱 I’m currently learning: Java and Python.<br>🤝 I’m looking to collaborate on: Simple projects that help me practice programming.<br>👐 I’m looking for help with: Improving my skills in Java and Python.<br>💼 I’m currently looking for: An internship in the Technology field.<br>💬 Ask me about: Studies, programming, and academic projects.<br>⚡ Fun fact: I enjoy listening to music while programming.
+# 💫 Sobre mim:
+🛠️ Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.  
+🌱 Atualmente estou aprendendo: Java e Python.  
+🤝 Estou procurando colaborar em: Projetos simples que me ajudem a praticar programação.  
+👐 Estou buscando ajuda com: Melhorar minhas habilidades em Java e Python.  
+💼 Atualmente estou procurando: Um estágio na área de Tecnologia.  
+💬 Pergunte-me sobre: Estudos, programação e projetos acadêmicos.  
+⚡ Curiosidade: Gosto de ouvir música enquanto programo.
 
 
 ## 🌐 Socials:
