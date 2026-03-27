@@ -1,10 +1,6 @@
 # 💫 Sobre mim:
-🛠️ Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.  
-🌱 Atualmente estou aprendendo: Java e Python.  
-🤝 Estou procurando colaborar em: Projetos simples que me ajudem a praticar programação.  
-👐 Estou buscando ajuda com: Melhorar minhas habilidades em Java e Python.  
-💼 Atualmente estou procurando: Um estágio na área de Tecnologia.  
-💬 Pergunte-me sobre: Estudos, programação e projetos acadêmicos.  
+🛠️ Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
+💼 Atualmente estou procurando: Um estágio na área de Tecnologia.   
 ⚡ Curiosidade: Gosto de ouvir música enquanto programo.
 
 
