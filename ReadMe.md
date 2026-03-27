@@ -5,8 +5,18 @@
 
 
 ## 🌐 Onde pode me encontrar:
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/https://www.linkedin.com/in/beatriz-da-silva-machado/) [![email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:beatrizsmachado07@gmail.com) 
+<a href="https://www.linkedin.com/in/beatriz-da-silva-machado/">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
+</a>
+<a href="mailto:beatrizsmachado07@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
+</a>
 
 # 💻 Ferramentas:
-![CSS](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) ![PHP](https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=100&id=Q5FXgRZybr2A&format=png&color=000000)![PYTHON](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) ![JAVA](https://img.icons8.com/?size=100&id=mQ01rhdaQzyT&format=png&color=000000) ![Figma](https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000) ![MySQL](https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000)
-
+<img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="50"/> 
+<img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" width="50"/> 
+<img src="https://img.icons8.com/?size=100&id=Q5FXgRZybr2A&format=png&color=000000" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50"/> 
+<img src="https://img.icons8.com/?size=100&id=mQ01rhdaQzyT&format=png&color=000000" width="50"/> 
+<img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" width="50"/> 
+<img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" width="50"/>
