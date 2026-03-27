@@ -15,7 +15,7 @@
 # 💻 Ferramentas:
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=Q5FXgRZybr2A&format=png&color=000000" width="48"/>
+  <img src="https://img.icons8.com/?size=100&id=Q5FXgRZybr2A&format=png&color=000000" width="45"/>
   <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=mQ01rhdaQzyT&format=png&color=000000" width="50"/>
