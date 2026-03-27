@@ -23,3 +23,9 @@
   <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" width="50"/>
 </p>
+
+---
+
+<p align="right">
+  <img src="https://i.pinimg.com/736x/44/27/2d/44272d8f938c0c56802954ca40e98037.jpg" width="200"/>
+</p>
