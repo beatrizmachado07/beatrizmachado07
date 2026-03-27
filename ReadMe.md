@@ -8,7 +8,7 @@
 ⚡ Curiosidade: Gosto de ouvir música enquanto programo.
 
 
-## 🌐 Socials:
+## 🌐 Onde pode me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beatriz-da-silva-machado/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beatrizsmachado07@gmail.com) 
 
 # 💻 Tech Stack:
