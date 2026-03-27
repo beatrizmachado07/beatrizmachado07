@@ -1,7 +1,6 @@
 # 💫 Sobre mim:
-🛠️ Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
+🎓 Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
 💼 Atualmente estou procurando: Um estágio na área de Tecnologia.   
-⚡ Curiosidade: Gosto de ouvir música enquanto programo.
 
 
 ## 🌐 Onde pode me encontrar:
