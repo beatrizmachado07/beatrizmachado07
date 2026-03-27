@@ -27,5 +27,7 @@
 ---
 
 <p align="right">
-  <img src="https://i.pinimg.com/736x/44/27/2d/44272d8f938c0c56802954ca40e98037.jpg" width="200"/>
+  <img src="https://i.pinimg.com/736x/44/27/2d/44272d8f938c0c56802954ca40e98037.jpg" 
+       width="200" 
+       style="border-radius: 15px;"/>
 </p>
