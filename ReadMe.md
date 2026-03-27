@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 🎓 Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
+📚 Estou sempre estudando e buscando aprender cada vez mais. 
 💼 Atualmente estou procurando: Um estágio na área de Tecnologia.   
 
 
