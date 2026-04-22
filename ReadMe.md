@@ -1,10 +1,10 @@
-# 💫 Sobre mim:
-🎓 Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
-📚 Estou sempre estudando e buscando aprender cada vez mais.              
-💼 Atualmente estou procurando: Um estágio na área de Tecnologia.   
+# Sobre mim:
+ - Atualmente estou estudando: Análise e Desenvolvimento de Sistemas.     
+ - Estou sempre estudando e buscando aprender cada vez mais.              
+ - Atualmente estou procurando: Um estágio na área de Tecnologia.   
 
 
-## 🌐 Onde pode me encontrar:
+##  Onde pode me encontrar:
 <a href="https://www.linkedin.com/in/beatriz-da-silva-machado/">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
 </a>
